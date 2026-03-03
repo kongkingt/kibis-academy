@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-label="Kibi&#x27;s Academy primary logo">
+  <rect x="0" y="0" width="960" height="240" rx="32" fill="#ffffff"/>
+  <g transform="translate(24,24) scale(0.375)">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7f4f0"/>
+      <stop offset="100%" stop-color="#8c847a"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="url(#bg)"/>
+  <circle cx="186" cy="162" r="34" fill="#fff" opacity="0.92"/>
+  <circle cx="252" cy="138" r="30" fill="#fff" opacity="0.92"/>
+  <circle cx="322" cy="162" r="34" fill="#fff" opacity="0.92"/>
+  <ellipse cx="254" cy="212" rx="78" ry="56" fill="#fff" opacity="0.92"/>
+  <text x="256" y="358" text-anchor="middle" font-family="Palatino Linotype, Book Antiqua, serif" font-size="126" font-weight="700" fill="#1e2b31">KA</text>
+</g>
+  <text x="260" y="120" font-family="Palatino Linotype, Book Antiqua, serif" font-size="66" font-weight="700" fill="#8c847a">Kibi's Academy</text>
+  <text x="262" y="164" font-family="Avenir Next, Trebuchet MS, sans-serif" font-size="24" fill="#1e2b31">Spoken word · Creatief schrijven · Podium</text>
+</svg>

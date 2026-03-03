@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Kibi&#x27;s Academy logo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7f4f0"/>
+      <stop offset="100%" stop-color="#8c847a"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="url(#bg)"/>
+  <circle cx="186" cy="162" r="34" fill="#fff" opacity="0.92"/>
+  <circle cx="252" cy="138" r="30" fill="#fff" opacity="0.92"/>
+  <circle cx="322" cy="162" r="34" fill="#fff" opacity="0.92"/>
+  <ellipse cx="254" cy="212" rx="78" ry="56" fill="#fff" opacity="0.92"/>
+  <text x="256" y="358" text-anchor="middle" font-family="Palatino Linotype, Book Antiqua, serif" font-size="126" font-weight="700" fill="#1e2b31">KA</text>
+</svg>
